@@ -1,13 +1,13 @@
 ---
 tags:
-  - sql-injection/error-based
+  - web-hacking/sql-injection/error-based
 ---
 -- --
 
 
 **Pre-requisites**
 
-- Able to trigger  an XPATH Notation error
+- Able to trigger an XPATH Notation error
 
 **Steps to reproduce**
 
