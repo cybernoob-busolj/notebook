@@ -1,0 +1,25 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "post-exploitation": 2,
+    "sql-injection": 1,
+    "technologies": 3,
+    "post-exploitation/upgrading-tty": 1,
+    "sql-injection/error-based": 1,
+    "technologies/php": 1,
+    "technologies/smb": 2,
+    "technologies/php/laravel": 1,
+    "technologies/smb/enumeration": 1
+  },
+  "tagColors": {},
+  "_version": 4
+}
