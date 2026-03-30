@@ -1,5 +1,5 @@
 gpush() {
-    DEST="/home/busolj/Documents/to-github"
+    DEST="/home/busolj/my/notebook"
 
     SOURCES=(
         "/home/busolj/Desktop/Notes"
